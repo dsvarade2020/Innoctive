@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Innoctive</string>
+
+    <string name="msg_wait">Please wait...</string>
+    <string name="server_down_message">Server Down</string>
+    <string name="msg_no_internet">No Internet Connection</string>
+</resources>
